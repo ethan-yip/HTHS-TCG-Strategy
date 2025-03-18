@@ -3,7 +3,7 @@
 - Deck of 25-35 cards.
 > You should really just have 35 cards. The more cards prevents the case for the "lose by default" rule.
 - Shuffle and draw 5 cards to start the game.
-> I'm assuming same rule as PKM TCG --> one prize card if no "teacher" cards in deck. Try to build a starting deck with just a normal type of starter.
+> I'm assuming same rule (edited) as PKM TCG --> zero prize card reshuffles if no "teacher" cards in deck. Try to build a starting deck with just a normal type of starter.
 - Flip coin for order, 2 teacher cards.
 > Starter teacher card - dormant --> don't put any legendary or main deck surrounding.
 - 3 prize cards
@@ -18,5 +18,11 @@
 - Add teacher cards to roster
 > Might not need to maintain hand size.
 - Roster to classroom
-> any amount, thus need to max all teachers in rosters if needed be
+> any amount, thus need to max all teachers in rosters if needed be.
+- Use # of event cards
+> any number but look @ strategy guides
+- take prize cards if KO opp. central.
+
+### Attack Rules
+![image](https://github.com/user-attachments/assets/a6365772-5b0d-472d-8b83-ee6ff05dfe5f)
 
